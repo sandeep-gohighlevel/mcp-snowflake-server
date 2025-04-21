@@ -1,4 +1,4 @@
 name = "mcp-snowflake-server"
-main = "src/entry.py"
+main = "src/mcp_snowflake_server/server.py"
 compatibility_date = "2025-04-21"
 compatibility_flags = ["python_workers"]
